@@ -9,8 +9,8 @@ It will be free to play online rhythm game, with leaderboards, low requirements 
 
 🤔 I’m looking for help with scripting, especially in C# with Unity.
 
-💬 Feel free to ask me about everything!
+💬 Feel free to ask me about _everything_! (Yes, there are some exceptions...)
 
-📫 How to reach me:
+**📫 How to reach me:**
 Email: [here](tunemash@gmail.com) or add me on Discord: Hajp#0001.
 </centre>
