@@ -1,5 +1,5 @@
 ![image](https://i.imgur.com/ymWftco.png)
-
+<p style="text-align: center;">
 This title is associated with a developing free to play online rhythm game, with leaderboards and a lot of fun!
 
 **🌱 I’m currently learning**
@@ -13,3 +13,4 @@ C# , Python, JavScript, HTML5, CSS, MySQL.
 
 **📫 How to reach me:**
 Email: [tunemash@gmail.com] or add me on **Discord:** Hajp#0001.
+</p>
