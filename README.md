@@ -1,3 +1,4 @@
+<centre>
 🔭 I’m currently working on game called TuneMash.
 It will be free to play online rhythm game, with leaderboards, low requirements and a lot of fun!
 
@@ -11,3 +12,4 @@ It will be free to play online rhythm game, with leaderboards, low requirements 
 
 📫 How to reach me:
 Email: [here](tunemash@gmail.com) or add me on Discord: Hajp#0001.
+</centre>
