@@ -5,9 +5,9 @@ This title is associated with a developing free to play online rhythm game, with
   🌱 <b>I’m currently learning</b>
 C# , Python, JavScript, HTML5, CSS, MySQL.
 <p align="center">
-  <b>👯 I’m looking to collaborate</b> on small project, which is **free to win** RHYTHM game.
+  <b>👯 I’m looking to collaborate</b> on small project, which is <b>free to win</b> RHYTHM game.
 <p align="center">
-<b>🤔 I’m looking for help with</b> scripting, especially in **C#** with Unity.
+  <b>🤔 I’m looking for help with</b> scripting, especially in <b>C#</b> with Unity.
 <p align="center">
   <b>💬 Feel free to ask me about</b> _everything_! (Yes, there are some exceptions...)
 <p align="center">
