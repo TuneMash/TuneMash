@@ -1,6 +1,5 @@
-<centre>
-**🔭 I’m currently working on...** game called <h1>TuneMash</h1>.
-It will be free to play online rhythm game, with leaderboards, low requirements and a lot of fun!
+<h1>TuneMash</h1>.
+Will be a free to play online rhythm game, with leaderboards, low requirements and a lot of fun!
 
 **🌱 I’m currently learning**
 C# , Python, JavScript, HTML5, CSS, MySQL.
@@ -13,4 +12,3 @@ C# , Python, JavScript, HTML5, CSS, MySQL.
 
 **📫 How to reach me:**
 Email: [tunemash@gmail.com] or add me on Discord: Hajp#0001.
-</centre>
