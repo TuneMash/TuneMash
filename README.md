@@ -9,7 +9,7 @@ C# , Python, JavScript, HTML5, CSS, MySQL.
 <p align="center">
   <b>🤔 I’m looking for help with</b> scripting, especially in <b>C#</b> with Unity.
 <p align="center">
-  <b>💬 Feel free to ask me about</b> _everything_! (Yes, there are some exceptions...)
+  <b>💬 Feel free to ask me about</b> <i>everything</i>! (Yes, there are some exceptions...)
 <p align="center">
   <b>📫 How to reach me:</b>
   Email: [tunemash@gmail.com] or add me on <b>Discord:</b> Hajp#0001.
