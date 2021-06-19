@@ -15,4 +15,6 @@ C# , Python, JavScript, HTML5, CSS, MySQL.
   Email: [tunemash@gmail.com] or add me on <b>Discord:</b> Hajp#0001.
 </p>
 <br></br>
+
+<p align="center">
 <article>Ahaha</article>
