@@ -1,4 +1,4 @@
-<h1>TuneMash</h1>.
+<h1>TuneMash</h1>
 This title is associated with a developing free to play online rhythm game, with leaderboards, low requirements and a lot of fun!
 
 **🌱 I’m currently learning**
