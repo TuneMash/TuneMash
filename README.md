@@ -1,4 +1,4 @@
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://i.imgur.com/ymWftco.png "TuneMash"
 
 This title is associated with a developing free to play online rhythm game, with leaderboards and a lot of fun!
 
