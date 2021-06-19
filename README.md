@@ -1,5 +1,5 @@
 ![image](https://i.imgur.com/ymWftco.png)
-<p style="text-align: center;">
+<p align="center">
 This title is associated with a developing free to play online rhythm game, with leaderboards and a lot of fun!
 
 **🌱 I’m currently learning**
