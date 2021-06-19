@@ -3,7 +3,7 @@
 It will be free to play online rhythm game, with leaderboards, low requirements and a lot of fun!
 
   <dt>🌱 I’m currently learning</dt>
-  **C#**, **Python**, JavaScript, **HTML5**, CSS, MySQL.
+  ** C# **, ** Python **, JavaScript, ** HTML5 **, CSS, MySQL.
   These bold languages are my main now.
 
 👯 **I’m looking to collaborate** on small project, which is **free to win** RHYTHM game.
