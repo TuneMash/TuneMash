@@ -12,5 +12,5 @@ C# , Python, JavScript, HTML5, CSS, MySQL.
   <b>💬 Feel free to ask me about</b> _everything_! (Yes, there are some exceptions...)
 <p align="center">
   <b>📫 How to reach me:</b>
-Email: [tunemash@gmail.com] or add me on **Discord:** Hajp#0001.
+  Email: [tunemash@gmail.com] or add me on <b>Discord:</b> Hajp#0001.
 </p>
