@@ -12,4 +12,4 @@ C# , Python, JavScript, HTML5, CSS, MySQL.
 💬 Feel free to ask me about _everything_! (Yes, there are some exceptions...)
 
 **📫 How to reach me:**
-Email: [tunemash@gmail.com] or add me on Discord: Hajp#0001.
+Email: [tunemash@gmail.com] or add me on **Discord:** Hajp#0001.
