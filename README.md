@@ -1,10 +1,9 @@
 <centre>
-🔭 I’m currently working on game called TuneMash.
+**🔭 I’m currently working on...** game called <h1>TuneMash</h1>.
 It will be free to play online rhythm game, with leaderboards, low requirements and a lot of fun!
 
-  <dt>🌱 I’m currently learning</dt>
-  ** C# **, ** Python **, JavaScript, ** HTML5 **, CSS, MySQL.
-  These bold languages are my main now.
+**🌱 I’m currently learning**
+C# , Python, JavScript, HTML5, CSS, MySQL.
 
 👯 **I’m looking to collaborate** on small project, which is **free to win** RHYTHM game.
 
