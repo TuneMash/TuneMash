@@ -1,5 +1,5 @@
 <h1>TuneMash</h1>.
-Will be a free to play online rhythm game, with leaderboards, low requirements and a lot of fun!
+This title is associated with a developing free to play online rhythm game, with leaderboards, low requirements and a lot of fun!
 
 **🌱 I’m currently learning**
 C# , Python, JavScript, HTML5, CSS, MySQL.
