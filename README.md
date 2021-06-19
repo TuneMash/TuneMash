@@ -12,10 +12,6 @@ It will be free to play online rhythm game, with leaderboards, low requirements 
 💬 Feel free to ask me about everything!
 
 📫 How to reach me:
-Email: tunemash@gmail.com
-
-or
-
-Discord: Hajp#0001
+Email: tunemash@gmail.com or Discord: Hajp#0001
 
 ### ### ### ### ### ### ###
