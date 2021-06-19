@@ -1,16 +1,21 @@
-### Hi there 👋
+### ### ### Hi there 👋 ### ### ###
 
-<!--
-**TuneMash/TuneMash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on game called TuneMash.
+It will be free to play online rhythm game, with leaderboards, low requirements and a lot of fun!
 
-Here are some ideas to get you started:
+🌱 I’m currently learning C#, Python, JavaScript, HTML5, CSS, MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on small project, which is free to play rhythm game.
+
+🤔 I’m looking for help with scripting, especially in C# with Unity.
+
+💬 Feel free to ask me about everything!
+
+📫 How to reach me:
+Email: tunemash@gmail.com
+
+or
+
+Discord: Hajp#0001
+
+### ### ### ### ### ### ###
