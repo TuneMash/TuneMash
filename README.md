@@ -1,4 +1,4 @@
-![image](https://i.imgur.com/ymWftco.png)
+![image](https://i.imgur.com/zx8iQUc.png)
 <p align="center">
 This title is associated with a developing free to play online rhythm game, with leaderboards and a lot of fun!
 <p align="center">
